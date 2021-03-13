@@ -1,0 +1,19 @@
+.primary {
+  background-color: blue;
+  width: 80px;
+  color: white;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.primary:focus {
+  outline: none;
+}
+.default {
+  background-color: antiquewhite;
+  width: 80px;
+  outline: none;
+  border: none;
+  color: black;
+  cursor: pointer;
+}
